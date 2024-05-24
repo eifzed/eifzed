@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile
 
-Hi there! 👋 I'm a Backend Software Engineer at **Company X**. I specialize in building robust and scalable backend systems using **Go (Golang), Python, and C#**. My expertise extends to working with both relational and non-relational databases, networking, and implementing CI/CD pipelines.
+Hi there! 👋 I'm a Backend Software Engineer at **Tokopedia**. I specialize in building robust and scalable backend systems using **Go (Golang), Python, and C#**. My expertise extends to working with both relational and non-relational databases, networking, and implementing CI/CD pipelines.
 
 ## Skills and Expertise
 
