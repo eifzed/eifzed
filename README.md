@@ -9,7 +9,7 @@ Hi there! 👋 I'm a Backend Software Engineer at **Tokopedia**. I specialize in
   - Relational: MySQL, PostgreSQL
   - Non-relational: MongoDB, Redis, Elasticsearch
 - **Networking:** RESTful APIs, gRPC
-- **Cloud:** GCP (Google Cloud Platform), Microsoft Azure
+- **Cloud:** GCP (Google Cloud Platform), Microsoft Azure, Amazone Web Services
 - **CI/CD:** Jenkins, GitHub Actions.
 
 ## Current Projects
