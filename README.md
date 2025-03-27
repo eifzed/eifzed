@@ -14,11 +14,14 @@ Hi there! 👋 I'm a Backend Software Engineer at **Tokopedia**. I specialize in
 
 ## Current Projects
 
-### Cooking Recipe Social Media (Makaji)
+### DocuChat: Your Smart Knowledge Assistant
 
-I am currently working on an exciting personal project—a cooking recipe social media website where users can share and discover recipes. This project aims to create a community-driven platform for food enthusiasts.
+I am currently working on an exciting personal project—a smart AI assistant that transforms your documents into interactive conversations using RAG (Retrieval-Augmented Generation).
 
-You can check out the repository for this project [here](https://github.com/eifzed/makaji).
+You can check out the website here: https://docuchat-eight.vercel.app.
+And the github repo:
+Backend: https://github.com/eifzed/rag
+Frontend: https://github.com/eifzed/rag-fe
 
 
 ## My Blog
