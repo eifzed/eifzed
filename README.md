@@ -20,9 +20,9 @@ I am currently working on an exciting personal project—a smart AI assistant th
 
 You can check out the website here: https://docuchat-eight.vercel.app
 
-github repo:
-Backend: https://github.com/eifzed/rag
-Frontend: https://github.com/eifzed/rag-fe
+Github repo:
+- **Backend**: https://github.com/eifzed/rag
+- **Frontend**: https://github.com/eifzed/rag-fe
 
 
 ## My Blog
