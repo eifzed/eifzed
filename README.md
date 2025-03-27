@@ -18,8 +18,9 @@ Hi there! 👋 I'm a Backend Software Engineer at **Tokopedia**. I specialize in
 
 I am currently working on an exciting personal project—a smart AI assistant that transforms your documents into interactive conversations using RAG (Retrieval-Augmented Generation).
 
-You can check out the website here: https://docuchat-eight.vercel.app.
-And the github repo:
+You can check out the website here: https://docuchat-eight.vercel.app
+
+github repo:
 Backend: https://github.com/eifzed/rag
 Frontend: https://github.com/eifzed/rag-fe
 
